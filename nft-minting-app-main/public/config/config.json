@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbf21c5534B33Ba94d8769bAD28d5d9C196E008E0",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xbf21c5534B33Ba94d8769bAD28d5d9C196E008E0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Never Give Up",
+  "SYMBOL": "NGUNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nevergiveupnfts",
+  "SHOW_BACKGROUND": true
+}
